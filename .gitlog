@@ -5,3 +5,4 @@
 [2024-05-26 12:03:00 +0200] feat: MVVM ViewModel with add/delete/filter transactions
 [2024-06-27 11:28:00 +0200] feat: main list screen with RecyclerView and DiffUtil
 [2024-07-26 16:41:00 +0200] feat: add transaction form dialog - amount, category picker, date
+[2024-08-25 15:14:00 +0200] feat: implement monthly balance summary card
