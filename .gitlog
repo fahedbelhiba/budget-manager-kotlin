@@ -8,3 +8,4 @@
 [2024-08-25 15:14:00 +0200] feat: implement monthly balance summary card
 [2024-09-26 14:38:00 +0200] feat: add pie chart for spending by category (MPAndroidChart)
 [2024-10-25 18:16:00 +0200] feat: add bar chart for monthly income vs expense trend
+[2024-11-26 10:46:00 +0200] fix: negative balance display formatting, add red color indicator
