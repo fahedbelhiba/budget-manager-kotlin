@@ -10,3 +10,4 @@
 [2024-10-25 18:16:00 +0200] feat: add bar chart for monthly income vs expense trend
 [2024-11-26 10:46:00 +0200] fix: negative balance display formatting, add red color indicator
 [2024-12-25 14:40:00 +0200] feat: add budget limit per category with warning notifications
+[2025-01-26 16:49:00 +0200] refactor: migrate from LiveData to StateFlow across all ViewModels
