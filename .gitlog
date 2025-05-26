@@ -12,3 +12,4 @@
 [2024-12-25 14:40:00 +0200] feat: add budget limit per category with warning notifications
 [2025-01-26 16:49:00 +0200] refactor: migrate from LiveData to StateFlow across all ViewModels
 [2025-03-25 09:11:00 +0200] feat: add CSV export of transaction history
+[2025-05-26 15:14:00 +0200] test: unit tests for balance computation and category aggregation
