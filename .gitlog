@@ -15,3 +15,4 @@
 [2025-05-26 15:14:00 +0200] test: unit tests for balance computation and category aggregation
 [2025-07-25 17:51:00 +0200] feat: add dark mode and Material You dynamic colors
 [2025-09-26 09:58:00 +0200] fix: chart not refreshing on new transaction add
+[2025-11-25 12:33:00 +0200] refactor: adopt Hilt for dependency injection
