@@ -17,3 +17,4 @@
 [2025-09-26 09:58:00 +0200] fix: chart not refreshing on new transaction add
 [2025-11-25 12:33:00 +0200] refactor: adopt Hilt for dependency injection
 [2026-01-26 17:46:00 +0200] feat: add recurring transaction support (weekly/monthly)
+[2026-03-25 13:54:00 +0200] docs: README with screenshots, feature list, setup instructions
