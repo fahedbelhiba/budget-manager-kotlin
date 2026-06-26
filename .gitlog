@@ -18,3 +18,4 @@
 [2025-11-25 12:33:00 +0200] refactor: adopt Hilt for dependency injection
 [2026-01-26 17:46:00 +0200] feat: add recurring transaction support (weekly/monthly)
 [2026-03-25 13:54:00 +0200] docs: README with screenshots, feature list, setup instructions
+[2026-06-26 11:22:00 +0200] chore: bump to target SDK 34, update all dependencies
